@@ -1,0 +1,30 @@
+{
+  "version": "2026-10-19",
+  "source": "https://15815518663.github.io/cat-poison-repository-web/",
+  "signatures": [
+    {
+      "id": "sig-captcha-rainbow-cat",
+      "name": "彩虹猫诱导弹窗",
+      "severity": "high",
+      "hash": "c5d24d5cdb2a46d9f8be7b3982264e530e6c4f4dff1e8a17f2cf3d4d65ef97ef",
+      "source": "人工提交",
+      "status": "pending"
+    },
+    {
+      "id": "sig-lure-portal",
+      "name": "钓鱼门户附件脚本",
+      "severity": "medium",
+      "hash": "d2ce6b188a415534aa2c2d70e8f622fac2b3d39f9de25f562d40ca31f7fdd5d4",
+      "source": "人工提交",
+      "status": "pending"
+    },
+    {
+      "id": "sig-shadow-locker",
+      "name": "影子锁定器样本",
+      "severity": "high",
+      "hash": "11223344556677889900aabbccddeeff00112233445566778899aabbccddeeff",
+      "source": "人工提交",
+      "status": "pending"
+    }
+  ]
+}
